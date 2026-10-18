@@ -1,0 +1,7 @@
+# 重新執行 HW2_MultipleLR.ipynb 所需（包含 App 的依賴）
+-r requirements.txt
+scikit-learn==1.9.1
+statsmodels==0.15.0
+matplotlib==3.11.2
+jupyter==1.1.1
+nbformat==5.11.1

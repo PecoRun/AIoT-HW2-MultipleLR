@@ -1,0 +1,8 @@
+# Streamlit App（app.py）執行所需。版本鎖定為開發與測試時使用的版本：
+# models/model.joblib 內含 pandas / numpy 物件，版本不同可能無法載入。
+streamlit==1.66.0
+pandas==3.0.6
+numpy==2.5.4
+scipy==1.18.1
+altair==6.3.0
+joblib==1.6.0
