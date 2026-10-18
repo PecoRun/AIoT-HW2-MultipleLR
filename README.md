@@ -7,7 +7,7 @@
 - **課程名稱**: AIoT 
 - **作業實作**: HW-2 — Multiple Linear Regression: Human-AI Interaction
 - **示範教師**: Huan Chen
-- **學生 Live Demo Page**: 
+- **學生 Live Demo Page**: [https://aiot-hw2-multiplelr.streamlit.app/](https://aiot-hw2-multiplelr.streamlit.app/)
 - **學生儲存庫網址**: [https://github.com/PecoRun/AIoT-HW2-MultipleLR](https://github.com/PecoRun/AIoT-HW2-MultipleLR)
 
 ![alt text](app_00_prediction.png)
@@ -64,7 +64,7 @@ jupyter notebook HW2_MultipleLR.ipynb
 
 互動式預測工具，同時整理了整份分析的重點。
 
-<!-- 線上 Demo 網址（部署後補上）：[點此開啟](https://...) -->
+**線上 Demo**：[https://aiot-hw2-multiplelr.streamlit.app/](https://aiot-hw2-multiplelr.streamlit.app/)
 
 **預測區**
 - 左側輸入特徵（滑桿與下拉選單），即時顯示**預測信任分數**，以及 **95% 信賴區間 (CI)** 與 **95% 預測區間 (PI)**
